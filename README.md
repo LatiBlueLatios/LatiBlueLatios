@@ -6,13 +6,12 @@
 
 ## Biography
 
-*(Probably the) best ~~JavaScript~~ programmer specialising in philosophy and systems design.* 
-- **Environment**: MacOS / Linux (Debian-Server)
-- **Preferred Languages**: JavaScript, C
-- **Tools**: Git, GCP, Bash, Github, Cloudflare
-- Mildly performance obsessed
+*(Probably the) best ~~JavaScript~~ programmer specialising in the arts and systems design.* 
+- **Environment**: MacOS / Debian
+- **Preferred Languages**: JavaScript, TypeScript, Zig, Go, C
+- **Favourite Tools**: Javet, Verdaccio, ESBuild, Hetzner
 
-Asmodeus's Latios :3 🩷 | Zootopia Franchise Enthusiast
+Asmodeus's Latios :3 🩷
 
 ## something
 ```js
