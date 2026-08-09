@@ -50,7 +50,6 @@ function hi() {
 }
 hi(); // hi hi hi hi hi hi hi hi hi hi hi hi hi 
 ```
-PS: I'm planning to make this a lot more beautiful than it currently is ;). Really wish github profiles could have a lot more colours outside of the few custom elements you can provide. 
 
 > *"I have noticed even people who claim everything is predestined, and that we can do nothing to change it, look before they cross the road." — Stephen Hawking*
 
