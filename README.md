@@ -13,20 +13,23 @@
 - **Skills**: Architecture & Systems Design, Full-Stack, Optimisation, DX
 
 Asmodeus's Carrots :3 🩷
-> And you little guy, you want to be an elephant when you grow up... you be an elephant--because this is Zootopia, anyone can be anything.
+> And you little guy, you want to be   
+> an elephant when you grow up... you   
+> be an elephant--because this is   
+> Zootopia, anyone can be anything.
 > \- Judy Hopps
 
 ## something
 ```js
-let FavouriteThings = ["Pokemon", "Philosophy", "Coding", "Dolphins", "Art", "Music"];
-const FavouriteLanguages = new Set(["JavaScript", "C", "D"]); // No, HTML is not a programming language !!!
+let FavouriteThings = ["Zootopia", "Philosophy", "Coding", "Dolphins", "Art", "Psychology"];
+const FavouriteLanguages = new Set(["JavaScript", "C"]); // No, HTML is not a programming language !!!
 
 // I am not open for contact!
 let PersonalStatus = "Busy";
 
 // A tetris bot is incredibly simple to code.
 // A good one is...not. 
-let currentlyLearning = ["DSA"]; // DSA => Data Structures and Algorithms
+let currentlyLearning = ["DSA", "Systems Programming", "Discrete Mathematics"]; // DSA => Data Structures and Algorithms
 
 // Some projects that I am currently working on. These are fun little
 // projects I made for myself (may be a POC, experiment, learning moment, or just for the fun of it),
