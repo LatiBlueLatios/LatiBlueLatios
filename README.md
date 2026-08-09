@@ -14,7 +14,7 @@
 
 Asmodeus's Carrots :3 🩷
 > And you little guy, you want to be an elephant when you grow up... you be an elephant--because this is Zootopia, anyone can be anything.
-> - Judy Hopps
+> \- Judy Hopps
 
 ## something
 ```js
