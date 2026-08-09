@@ -6,12 +6,15 @@
 
 ## Biography
 
-*(Probably the) best ~~JavaScript~~ programmer specialising in the arts and systems design.* 
+*(Probably the) best ~~JavaScript~~ programmer specialising in the arts with a big love for Zootopia.* 
 - **Environment**: MacOS / Debian
 - **Preferred Languages**: JavaScript, TypeScript, Zig, Go, C
 - **Favourite Tools**: Javet, Verdaccio, ESBuild, Hetzner
+- **Skills**: Architecture & Systems Design, Full-Stack, Optimisation, DX
 
-Asmodeus's Latios :3 🩷
+Asmodeus's Carrots :3 🩷
+> And you little guy, you want to be an elephant when you grow up... you be an elephant--because this is Zootopia, anyone can be anything.
+> - Judy Hopps
 
 ## something
 ```js
